@@ -34,23 +34,6 @@ The main objective of **Animéa** is to transform a static doll into an engaging
 - **Connectivity**: Multiple USB-C/USB ports + FPC connector
 - **Power**: LiPo battery support with charging circuit
 
-## Repository Contents
-
-- Hardware design files (KiCad)
-- Firmware source code
-- 3D models for doll integration (soon)
-- Documentation and pinout
-- Example code (voice, audio, sensors)
-
-## Getting Started
-
-1. Clone the repository
-2. Flash the initial firmware using ESP-IDF or Arduino IDE
-3. Connect a LiPo battery and speaker
-4. Explore the example projects
-
-Detailed setup instructions are available in the [docs](docs/) folder.
-
 ## Future Plans
 
 - Full voice assistant integration (local + cloud options)
@@ -58,13 +41,4 @@ Detailed setup instructions are available in the [docs](docs/) folder.
 - Motor control for head and limb movements
 - Mobile app companion
 - Educational games and stories
-
-## License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
-**Made with ❤️ for interactive toys and creative makers.**
-
 Feel free to open issues, suggest features, or contribute!
